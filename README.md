@@ -1,6 +1,5 @@
 # Hi, I'm Driss 👋🏾 👩🏾‍💻
 
-- ### Hi there 👋, my name is Driss Elminiar
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Passionate and skilled Full Stack Web Developer with a comprehensive understanding of web architecture and a proven ability to design and manage complete web applications. Equipped with expertise in both front-end and back-end technologies, I am committed to developing efficient, scalable, and intuitive solutions. My proficiency includes HTML, CSS, Bootstrap, JavaScript, and PHP, along with proficiency in frameworks such as React and Laravel. I possess a deep understanding of database management, utilizing both SQL and NoSQL databases such as MySQL and MongoDB. With extensive experience in API development and integration, I excel in establishing seamless communication across different layers of applications. Emphasizing security and performance optimization, I consistently adhere to best practices in all my projects.
